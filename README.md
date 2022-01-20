@@ -1,5 +1,3 @@
-# customer_behavior_analysis
-
 # Customer Behavior Analysis
 
 This course was designed for students of [Data Science for Business master program (YSU)](https://armdsforb.wordpress.com/).
