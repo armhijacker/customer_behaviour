@@ -193,7 +193,7 @@ They will then reach out early to help reevaluate the customer’s needs before 
 - Mobile App Data
 - Wearables and the Internet of Things
 
-### What is consumer behaviour analysis? [Source](https://www.lsbf.org.uk/blog/news/analyse-consumer-behaviour/121862)
+### [What is consumer behaviour analysis ?](https://www.lsbf.org.uk/blog/news/analyse-consumer-behaviour/121862)
 Before diving into the deep end of consumer behaviour analysis,
 it is important to understand its meaning.
 Consumer behaviour analysis is the study of how people make purchase decisions with regard to a product,
