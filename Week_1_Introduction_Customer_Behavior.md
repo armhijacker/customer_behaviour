@@ -50,10 +50,11 @@ For example, a Trends Analysis can show the number of weekly user signups over t
 Trends Analysis is usually the first step in the analysis to learn what happened.
 But to develop a deeper understanding of why events are trending in a particular direction, companies need to leverage customer journeys
 (What is Customer Journey Analytics: Customer Journey Analytics is the process of analyzing the customer experience across every touchpoint
-in the customer journey. Often, machine learning, python, and various software tools are employed to fully measure customer interaction.).
+in the customer journey. Often, machine learning, python, and various software tools are employed to fully measure customer interaction).
+![alt text](docs/consumer_journey.jpeg "Consumer Journey Image")
 
 
-<b> Customer Journey Analysis </b>
+<b> [Customer Journey Analysis](https://www.woopra.com/learn/customer-journey-analytics) </b>
 
 Companies can also aggregate user data to analyze the effectiveness of actions in the context of a user’s journey.
 For this type of analysis, having consistent unique identifiers for users is critical to tie together the series of steps taken by a user throughout their journey.
@@ -98,7 +99,8 @@ Using regression analysis, they build models to test and project outcomes based 
 For example, a company can produce a model around the following variables: age, gender, product category, and season with the measured outcome being revenue generated. 
 The company will use this model every season to predict what to merchandize and who to market to in order to maximize the ROI on the inventory and advertising spend.
 
-Machine Learning
+<b> Machine Learning </b>
+
 In the previous decade, we witnessed the rise of a new era of machine learning.
 Machines can now learn a lot faster from historical data and develop models beyond human abilities thanks to a new Deep Learning technique, 
 also referred to as Neural Networks.
