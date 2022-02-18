@@ -9,7 +9,7 @@ During the course, students will learn how to apply statistical models and machi
 
 ### Syllabus 
 
-1. [Introduction: Customer Behavior and Data Science](https://github.com/Tigran-Karamyan/customer_behaviour/Week_1_Introduction_Customer_Behavior.md)
+1. [Introduction: Customer Behavior and Data Science](https://github.com/Tigran-Karamyan/customer_behaviour/blob/f90436f80a48155fec0afe2c00c8c31dbeab307e/Week_1_Introduction_Customer_Behavior.md)
 2. [Data Preparation for Customer Behavior Analysis]()
 3. [Cohort Analysis: Exploring Consumer Behavior Over Time]() 
 4. [Basics of Customer Segmentation: RFM analysis]()
