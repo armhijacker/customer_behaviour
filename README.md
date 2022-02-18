@@ -9,15 +9,13 @@ During the course, students will learn how to apply statistical models and machi
 
 ### Syllabus 
 
-1. [Introduction: Customer Behavior and Data Science](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_1_Introduction_Customer_Behavior.md)
-2. [Data Preparation for Customer Behavior Analysis](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_2_Data_Preparation_and_EDA.ipynb)
-3. [Cohort Analysis: Exploring Consumer Behavior Over Time](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_3_Cohort_Analysis.ipynb) 
-4. [Basics of Customer Segmentation: RFM analysis](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_4_Basics_of_Segmentation_RFM.ipynb)
-5. [Customer Segmentation Part 2: Clustering algorithms](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_5_Segmentation_with_Clustering.ipynb)
-6. [Customer Churn: Prediction and Analysis](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_6_Churn_Analysis_Prediction.ipynb)
-7. [Next Purchase Prediction](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_7_Next_Purchase_Prediction.ipynb)
-8. [Market Basket Analysis](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_8_Association_Rules.ipynb) 
-9. [Choice Modeling and Conjoint Analysis](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_9_Choice_Modeling_Conjoint_analysis.ipynb)
-10. [Price Elasticity and Brand Choice](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_10_Purchase_Analytics_Price_Elasticity.ipynb)
-
-
+1. [Introduction: Customer Behavior and Data Science](https://github.com/Tigran-Karamyan/customer_behaviour/blob/f90436f80a48155fec0afe2c00c8c31dbeab307e/Week_1_Introduction_Customer_Behavior.md)
+2. [Data Preparation for Customer Behavior Analysis]()
+3. [Cohort Analysis: Exploring Consumer Behavior Over Time]() 
+4. [Basics of Customer Segmentation: RFM analysis]()
+5. [Customer Segmentation Part 2: Clustering algorithms]()
+6. [Customer Churn: Prediction and Analysis]()
+7. [Next Purchase Prediction]()
+8. [Market Basket Analysis]() 
+9. [Choice Modeling and Conjoint Analysis]()
+10. [Price Elasticity and Brand Choice]()
