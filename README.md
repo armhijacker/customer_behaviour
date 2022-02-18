@@ -19,5 +19,3 @@ During the course, students will learn how to apply statistical models and machi
 8. [Market Basket Analysis]() 
 9. [Choice Modeling and Conjoint Analysis]()
 10. [Price Elasticity and Brand Choice]()
-
-
