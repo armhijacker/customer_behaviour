@@ -16,7 +16,7 @@ During the course, students will learn how to apply statistical models and machi
 5. [Handle Missing values](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_4_Outlier_Detection_and_NAs_2.ipynb)
 6. [Cohort Analysis: Exploring Consumer Behavior Over Time](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_5_Cohort_Analysis.ipynb) 
 7. [Basics of Customer Segmentation: RFM analysis](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_6_Basics_of_Segmentation_RFM.ipynb)
-8. [Customer Segmentation Part 2: Clustering algorithms]()
+8. [Customer Segmentation Part 2: Clustering algorithms](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_7_Segmentation_with_Clustering.ipynb)
 9. [Customer Churn: Prediction and Analysis]()
 10. [Next Purchase Prediction]()
 11. [Market Basket Analysis]() 
