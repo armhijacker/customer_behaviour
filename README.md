@@ -21,7 +21,7 @@ During the course, students will learn how to apply statistical models and machi
 10. [Singular Vector Decomposition - PPTX](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_8_Singular_Vector_decomposition.pptm)
 11. [Scrapping: Hands on Example](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_9_Scrapping_Hands_on_example.ipynb)
 12. [Customer Churn: Prediction and Analysis](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_10_Churn_Analysis_Prediction.ipynb)
-13. [[Market Basket Analysis]()](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_11_Association_Rules.ipynb)
+13. [Market Basket Analysis](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_11_Association_Rules.ipynb)
 14. [Next Purchase Prediction]() 
 15. [Choice Modeling and Conjoint Analysis]()
 16. [Price Elasticity and Brand Choice]()
