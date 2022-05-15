@@ -22,6 +22,6 @@ During the course, students will learn how to apply statistical models and machi
 11. [Scrapping: Hands on Example](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_9_Scrapping_Hands_on_example.ipynb)
 12. [Customer Churn: Prediction and Analysis](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_10_Churn_Analysis_Prediction.ipynb)
 13. [Market Basket Analysis](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_11_Association_Rules.ipynb)
-14. [Choice Modeling and Conjoint Analysis]()
+14. [Choice Modeling and Conjoint Analysis](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_12_Choice_Modeling_Conjoint_analysis.ipynb)
 15. [Next Purchase Prediction]()  
 16. [Price Elasticity and Brand Choice]()
