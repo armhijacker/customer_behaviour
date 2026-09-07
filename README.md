@@ -10,10 +10,10 @@ During the course, students will learn how to apply statistical models and machi
 ### Syllabus 
 
 1. [Introduction: Customer Behavior and Data Science](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_1_Introduction_Customer_Behavior.md)
-2. [Bonus: Introduction to Python](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_1.5_Intro_to_Python.ipynb)
-3. [Data Preparation for Customer Behavior Analysis](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_2_Data_Preparation_and_EDA.ipynb)
-4. [Anomaly/Outlier Detection](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_3_Outlier_Detection_and_NAs.ipynb)
-5. [Handle Missing values](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_4_Outlier_Detection_and_NAs_2.ipynb)
+2. [Bonus: Introduction to Python](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_1.1_Intro_to_Python.ipynb)
+3. [Data Preparation for Customer Behavior Analysis](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_1.2_Data_Preparation_and_EDA.ipynb)
+4. [Anomaly/Outlier Detection](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_1.3_Outlier_Detection_and_NAs.ipynb)
+5. [Handle Missing values](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_1.4_Outlier_Detection_and_NAs_2.ipynb)
 6. [Cohort Analysis: Exploring Consumer Behavior Over Time](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_5_Cohort_Analysis.ipynb) 
 7. [Basics of Customer Segmentation: RFM analysis](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_6_Basics_of_Segmentation_RFM.ipynb)
 8. [Customer Segmentation Part 2: Clustering algorithms - Vol 1](https://github.com/Tigran-Karamyan/customer_behaviour/blob/master/Week_7_Segmentation_with_Clustering.ipynb)
